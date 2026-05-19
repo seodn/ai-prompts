@@ -176,14 +176,15 @@ Create a detailed outline following these structural points:
 ### STEP 3 — Draft Content Section-by-Section
 - Write each section in order.
 - Optimise for readability + SEO + AI.
-- **Google "People-First" Content Rules:** 
-  - Ensure content demonstrates clear Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T).
-  - Provide substantial, original value and original reporting/research rather than just summarizing what others say.
-  - Write primarily for people, not just for search engines or AI. Do not use keyword stuffing or manipulative spam tactics.
+- **Strictly Follow Google Guidelines:** Ensure all drafted content strictly adheres to these 5 Google guidelines:
+  1. **[AI Optimization Guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide):** Optimize for generative AI search by keeping content clear, structured, and easily extractable.
+  2. **[Creating Helpful Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content):** Focus on people-first content that demonstrates clear Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T).
+  3. **[Google Search Essentials](https://developers.google.com/search/docs/essentials):** Avoid keyword stuffing, manipulative spam tactics, and unnatural phrasing.
+  4. **[Using Gen AI Content](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content):** Ensure any AI-generated claims are carefully fact-checked, reliable, and provide original value.
+  5. **[Visual Elements Gallery](https://developers.google.com/search/docs/appearance/visual-elements-gallery):** Use structured formatting (tables, clear concise lists) to optimize for Google's UI elements and AI Overviews.
 - **Copywriting Rules:** Eliminate all "AI-ish/fluffy" adjectives. Always write in a straightforward, highly authoritative tone. 
-- **Formatting Rules:** Keep all bullet points and pointers concise (strict 1-2 lines maximum) for high scannability. Use structured formatting (tables, clear lists) to optimize for Google's Visual Elements and AI Overviews.
+- **Formatting Rules:** Keep all bullet points and pointers concise (strict 1-2 lines maximum) for high scannability.
 - Ensure the content is written at an **8th-grade reading level** to maximize accessibility and AI extraction.
-- **AI Content Verification:** Fact-check all claims and ensure the AI-generated content is reliable and accurate per Google's AI content guidance.
 
 **Ask for Review:** Review section draft before next.
 

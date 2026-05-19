@@ -90,8 +90,12 @@ This is a fully operationalized, end-to-end system for creating and optimizing h
 - **Rule:** Strictly use **no contractions**. Use complete words at all times.
 - **Rule:** Strictly **no em dashes**.
 - **Rule:** Relegate branding and "our" language to the Decision Layer at the end.
-- **Google "People-First" Content Rule:** Ensure the content demonstrates strong E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness). Focus on providing original insights and substantial value for humans, not just manipulating search rankings.
-- **Fact-Checking Rule:** Ensure all AI-generated assertions are accurate, helpful, and reliable to comply with Google's guidelines on using generative AI.
+- **Strictly Follow Google Guidelines:** Ensure all drafted content strictly adheres to these 5 Google guidelines:
+  1. **[AI Optimization Guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide):** Optimize for generative AI search by keeping content clear, structured, and easily extractable.
+  2. **[Creating Helpful Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content):** Focus on people-first content that demonstrates clear Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T).
+  3. **[Google Search Essentials](https://developers.google.com/search/docs/essentials):** Avoid keyword stuffing, manipulative spam tactics, and unnatural phrasing.
+  4. **[Using Gen AI Content](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content):** Ensure any AI-generated claims are carefully fact-checked, reliable, and provide original value.
+  5. **[Visual Elements Gallery](https://developers.google.com/search/docs/appearance/visual-elements-gallery):** Use structured formatting (tables, clear concise lists) to optimize for Google's UI elements and AI Overviews.
 
 ---
 
