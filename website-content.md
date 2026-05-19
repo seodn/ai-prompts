@@ -122,23 +122,21 @@
 
 ### STEP 3 — Generate Comprehensive Outline Structure
 Create a detailed outline following these structural points:
-1. **Hero Section / Primary Heading**: H1, 2-3 line intro, and CTAs.
-2. **AI Overview / About Section**: Replaces standard "Quick Answers" with a natural heading (e.g. "Your Local Mechanic in [Location]") for seamless LLM extraction.
-3. **Foundational Semantic Sections**: Explain the topic in full detail covering definitions, variations, and classifications.
-4. **Problem / Symptom / Need Sections**: Signs/problems leading to the service.
-5. **Service / Product Types or Options**: Keep to a focused list of 4-5 core offerings max. Include internal links to deeper pages and a "View All Services" CTA.
+1. **Hero Section / Primary Heading**: H1 should be a natural sentence form satisfying user intent and targeting both users and Google. Follow with a natural, professional introductory text, exactly three high-impact reassurance bullet points, and clean call-to-actions. Keep uncluttered.
+2. **AI Overview / About Section**: Replaces standard "Quick Answers" with a simple, natural heading (e.g. "About [Business Name]" or similar natural phrasing) that is not an identical target of the service or a robotic keyword extension. Optimized for seamless LLM extraction.
+3. **Problem / Symptom / Need Sections**: Signs/problems leading to the service.
+4. **Service / Product Types or Options**: Keep to a focused list of 4-5 core offerings max. Include internal links to deeper pages and a "View All Services" CTA.
+5. **Mid-Page CTA Banner**: Positioned immediately after the services section. Employs a banner heading (e.g., "Not sure what [Service/Solution] you need?"), a clear explanatory sub-text (e.g., "Let’s assess your [site/vehicle] and recommend the right approach"), and an action-oriented CTA button.
 6. **Process / How It Works**: Step-by-step service explanation.
 7. **Benefits, Outcomes, or Advantages**: Measurable/trustable gains (e.g. "Benefits of Regular Car Servicing").
-8. **Cost / Pricing Section**: Ranges, quoting philosophy, and influencing factors.
-9. **Alternatives / Comparisons**: Comparison with other solutions.
+8. **Cost / Pricing Section**: Provide straightforward starting costs in dollars and list the primary factors affecting the final cost.
+9. **Alternatives / Comparisons**: Comparison with other solutions (e.g., PDR vs traditional body beating).
 10. **Aftercare / Maintenance / Usage**: Post-service advice.
-11. **Differentiation section**: Explicitly highlight what makes this business better than local competitors.
-12. **Risks, Safety, or Warnings**: Common risks and safety measures.
-13. **Trust & E-E-A-T Signals**: Local expertise, certifications, awards, or expert credentials.
-14. **Local Context / Service Area**: Suburbs, landmarks, and regional relevance.
-15. **Testimonial Section**: Social proof (to be placed before FAQ).
-16. **FAQ Section**: 5–10 LLM-optimized questions tightly focused on the target search intent.
-17. **CTA Section**: Includes integrated booking form/contact layout.
+11. **Trust & E-E-A-T Signals**: Local expertise, certifications, awards, or expert credentials (e.g. MTA compliance, lifetime paint warranties).
+12. **Local Context / Service Area**: Suburbs, landmarks, and regional relevance.
+13. **Testimonial Section**: Social proof (to be placed before FAQ).
+14. **FAQ Section**: 5–10 LLM-optimized questions tightly focused on the target search intent.
+15. **CTA Section**: Includes integrated booking form/contact layout.
 
 **Ask for Review:** Approve structure.
 
