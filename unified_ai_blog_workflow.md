@@ -90,6 +90,8 @@ This is a fully operationalized, end-to-end system for creating and optimizing h
 - **Rule:** Strictly use **no contractions**. Use complete words at all times.
 - **Rule:** Strictly **no em dashes**.
 - **Rule:** Relegate branding and "our" language to the Decision Layer at the end.
+- **Google "People-First" Content Rule:** Ensure the content demonstrates strong E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness). Focus on providing original insights and substantial value for humans, not just manipulating search rankings.
+- **Fact-Checking Rule:** Ensure all AI-generated assertions are accurate, helpful, and reliable to comply with Google's guidelines on using generative AI.
 
 ---
 
@@ -141,6 +143,7 @@ This is a fully operationalized, end-to-end system for creating and optimizing h
 **Step 8.2 — Final Polish**
 - Ensure an 8th-grade reading level.
 - Confirm strict adherence to the "no contractions" and "no em dashes" rules.
+- **Google Search Essentials Check:** Verify there is no keyword stuffing, manipulative spam, or unnatural phrasing. Ensure the format leverages clear headings and lists to optimize for Google's Visual Elements and AI Overviews.
 
 **Step 8.3 — Output Generation**
 - Output the final, formatted, copy-paste ready blog content.

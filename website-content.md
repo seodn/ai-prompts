@@ -176,9 +176,14 @@ Create a detailed outline following these structural points:
 ### STEP 3 — Draft Content Section-by-Section
 - Write each section in order.
 - Optimise for readability + SEO + AI.
+- **Google "People-First" Content Rules:** 
+  - Ensure content demonstrates clear Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T).
+  - Provide substantial, original value and original reporting/research rather than just summarizing what others say.
+  - Write primarily for people, not just for search engines or AI. Do not use keyword stuffing or manipulative spam tactics.
 - **Copywriting Rules:** Eliminate all "AI-ish/fluffy" adjectives. Always write in a straightforward, highly authoritative tone. 
-- **Formatting Rules:** Keep all bullet points and pointers concise (strict 1-2 lines maximum) for high scannability.
+- **Formatting Rules:** Keep all bullet points and pointers concise (strict 1-2 lines maximum) for high scannability. Use structured formatting (tables, clear lists) to optimize for Google's Visual Elements and AI Overviews.
 - Ensure the content is written at an **8th-grade reading level** to maximize accessibility and AI extraction.
+- **AI Content Verification:** Fact-check all claims and ensure the AI-generated content is reliable and accurate per Google's AI content guidance.
 
 **Ask for Review:** Review section draft before next.
 
