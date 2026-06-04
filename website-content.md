@@ -122,6 +122,8 @@
 
 ### STEP 3 — Generate Comprehensive Outline Structure
 Create a detailed outline following these structural points:
+
+#### Option A: Standard Service & Landing Pages
 1. **Hero Section / Primary Heading**: H1 should be a natural sentence form satisfying user intent and targeting both users and Google. Follow with a natural, professional introductory text, exactly three high-impact reassurance bullet points, and clean call-to-actions. Keep uncluttered.
 2. **AI Overview / About Section**: Replaces standard "Quick Answers" with a simple, natural heading (e.g. "About [Business Name]" or similar natural phrasing) that is not an identical target of the service or a robotic keyword extension. Optimized for seamless LLM extraction.
 3. **Problem / Symptom / Need Sections**: Signs/problems leading to the service.
@@ -137,6 +139,26 @@ Create a detailed outline following these structural points:
 13. **Testimonial Section**: Social proof (to be placed before FAQ).
 14. **FAQ Section**: 5–10 LLM-optimized questions tightly focused on the target search intent.
 15. **CTA Section**: Includes integrated booking form/contact layout.
+
+#### Option B: Premium Direct-Response Homepage
+1. **Hero**: Outcome-focused, high-impact heading and subheading. Avoid generic service-listing copy. Include three high-impact value checkmarks (e.g., No Lock-in Contracts) and a call-to-action block.
+2. **Trust Section**: Short, punchy proof of local Kiwi focus and long-term business values.
+3. **Who We Are**: Direct, visually-spaced contrasts (e.g., "Most agencies focus on reports. We focus on outcomes.") to establish strategic authority.
+4. **The Market Has Changed**: A conversational overview explaining the shift to Siri, ChatGPT, Gemini, and conversational AI search queries.
+5. **What Makes Us Different**: Visual benefits matrix showing the competitive advantage (Visibility, Enquiries, Accountability, Flexibility).
+6. **Common Questions (Pain Points)**:
+   * **Formatting:** Bold H2 Heading, H3 Subheading, a concise **50 to 60-word description paragraph**, and structured Q&A bullet points answering main objections.
+7. **Our Services**: Outcomes-first representation of core offerings (SEO, Web Design, Ads, AI Optimisation, CRO, Hosting) without leading with the technical mechanism.
+8. **Featured Results**: Specially formatted bulleted metrics showing real business outcomes (such as percentage growth).
+9. **Our Process**: Clean, step-by-step roadmap from Discovery to Growth.
+10. **Why Clients Stay**: Bulleted high-contrast checklist calling out agency frustrations (no junior managers, no vanity metrics).
+11. **About the Founders**: Focus on Kiwi values and expertise-based leadership (Sagar and Pranav).
+12. **Testimonials**: Clean Kiwi owner reviews from Christchurch and Auckland.
+13. **Frequently Asked Questions (FAQs)**:
+    * **Formatting:** Bold H2 Heading, H3 Subheading, a concise **50 to 60-word description paragraph**, and bulleted questions optimized for conversational AI.
+14. **Final CTA**: High-impact closing hook offering a free diagnostic scan.
+
+**Ask for Review:** Approve structure option selection.
 
 **Ask for Review:** Approve structure.
 
