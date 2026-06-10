@@ -159,7 +159,7 @@ This is a fully operationalized, end-to-end system for creating and optimizing h
 *Goal: Finalise and deploy.*
 
 **Step 9.1 — Send to Webhook**
-- **Webhook URL:** `https://dnseo.app.n8n.cloud/webhook-test/new-blog`
+- **Webhook URL:** `https://dnseo.app.n8n.cloud/webhook/new-blog`
 - **Action:** Send a JSON payload containing:
     - `article_title`: [TITLE]
     - `article_body`: [FINAL_MARKDOWN_CONTENT]
