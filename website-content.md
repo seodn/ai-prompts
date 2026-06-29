@@ -141,22 +141,24 @@ Create a detailed outline following these structural points:
 15. **CTA Section**: Includes integrated booking form/contact layout.
 
 #### Option B: Premium Direct-Response Homepage
-1. **Hero**: Outcome-focused, high-impact heading and subheading. Avoid generic service-listing copy. Include three high-impact value checkmarks (e.g., No Lock-in Contracts) and a call-to-action block.
-2. **Trust Section**: Short, punchy proof of local Kiwi focus and long-term business values.
-3. **Who We Are**: Direct, visually-spaced contrasts (e.g., "Most agencies focus on reports. We focus on outcomes.") to establish strategic authority.
-4. **The Market Has Changed**: A conversational overview explaining the shift to Siri, ChatGPT, Gemini, and conversational AI search queries.
-5. **What Makes Us Different**: Visual benefits matrix showing the competitive advantage (Visibility, Enquiries, Accountability, Flexibility).
-6. **Common Questions (Pain Points)**:
+1. **Hero**: Outcome-focused heading and short subheading. Keep the hero concise. If the business serves multiple cities or branches, use the broader target location in the H1 (e.g. country, region, or service area) and explain branch locations below instead of overloading the heading with every city. Include exactly three high-impact reassurance bullets and clear CTAs.
+2. **Trust Section**: Short, punchy proof of local focus, business history, credentials, guarantees, payment terms, or process confidence.
+3. **Who We Are / About Section**: Use a specific, non-generic H2 that explains the role of the business (not "About Us" unless the client requires it). Keep this section concise and fact-led. Avoid repeating the hero.
+4. **Common Questions (Pain Points)**: Place at least 2 highly relevant customer pain-point questions immediately after the About section. Focus on doubts that block enquiries, such as price fairness, uncertainty about the right service/product, eligibility, turnaround time, risk, cost, or what happens next.
+5. **The Market Has Changed**: A conversational overview explaining relevant market shifts only when the page needs it. Skip or replace this section for local trade, service, or product homepages where it would feel forced.
+6. **What Makes Us Different**: Visual benefits matrix showing the competitive advantage (Visibility, Enquiries, Accountability, Flexibility, Price Clarity, Speed, Local Access, Compliance, etc.).
+7. **Common Questions (Pain Points) - Deeper Section**:
    * **Formatting:** Bold H2 Heading, H3 Subheading, a concise **50 to 60-word description paragraph**, and structured Q&A bullet points answering main objections.
-7. **Our Services**: Outcomes-first representation of core offerings (SEO, Web Design, Ads, AI Optimisation, CRO, Hosting) without leading with the technical mechanism.
-8. **Featured Results**: Specially formatted bulleted metrics showing real business outcomes (such as percentage growth).
-9. **Our Process**: Clean, step-by-step roadmap from Discovery to Growth.
-10. **Why Clients Stay**: Bulleted high-contrast checklist calling out agency frustrations (no junior managers, no vanity metrics).
-11. **About the Founders**: Focus on Kiwi values and expertise-based leadership (Sagar and Pranav).
-12. **Testimonials**: Clean Kiwi owner reviews from Christchurch and Auckland.
-13. **Frequently Asked Questions (FAQs)**:
+8. **Our Services**: Outcomes-first representation of 4-6 core offerings. Use neutral service headings unless location-specific service pages are confirmed. For multi-location businesses, add CTAs for each relevant location under each service (e.g. "Service Auckland" and "Service Christchurch") so users can move to the right local page.
+9. **Product / Service Categories**: Include a focused list of important products, services, or accepted categories when users need to self-identify what they need. Add internal link suggestions to deeper pages for each important category.
+10. **Featured Results / Proof**: Specially formatted bulleted metrics showing real business outcomes when approved proof exists. Do not invent metrics.
+11. **Our Process**: Clean, step-by-step roadmap from enquiry to completion/payment/delivery.
+12. **Why Clients Stay / Why Choose Us**: Bulleted high-contrast checklist calling out practical differentiators and trust signals.
+13. **About the Founders / Team**: Use only when founder or team expertise is a real trust signal. Keep it short and customer-relevant.
+14. **Testimonials**: Clean owner/customer reviews from relevant service areas.
+15. **Frequently Asked Questions (FAQs)**:
     * **Formatting:** Bold H2 Heading, H3 Subheading, a concise **50 to 60-word description paragraph**, and bulleted questions optimized for conversational AI.
-14. **Final CTA**: High-impact closing hook offering a free diagnostic scan.
+16. **Final CTA**: High-impact closing hook with the primary conversion actions.
 
 **Ask for Review:** Approve structure option selection.
 
@@ -196,6 +198,13 @@ Create a detailed outline following these structural points:
 ### STEP 3 — Draft Content Section-by-Section
 - Write each section in order.
 - Optimise for readability + SEO + AI.
+- For homepage copy, write enough substance to satisfy search intent. Unless the brief specifies a different target, aim for **1,000 to 1,200 words** for a local/service business homepage after excluding metadata and internal-link notes.
+- Keep the hero section short and uncluttered. Do not use the hero to cover every service, city, proof point, and objection.
+- If the page targets multiple locations, keep the H1 broad and natural, then use branch/location sections and location CTAs to route users.
+- Add at least **2 customer pain-point FAQs near the top of the page after the About/Who We Are section**, not only in the final FAQ block.
+- Avoid generic About headings. Use a specific H2 that communicates the business role, customer outcome, or trust angle.
+- In service sections, avoid unnecessary location modifiers in every heading unless each service is explicitly location-specific. Use clean service names and add location-specific CTAs under each service when needed.
+- Include internal linking suggestions after relevant sections such as pricing, services, product/category lists, locations, process, and FAQs. Suggest the anchor text and target URL.
 - **Strictly Follow Google Guidelines:** Ensure all drafted content strictly adheres to these 5 Google guidelines:
   1. **[AI Optimization Guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide):** Optimize for generative AI search by keeping content clear, structured, and easily extractable.
   2. **[Creating Helpful Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content):** Focus on people-first content that demonstrates clear Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T).
