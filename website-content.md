@@ -198,21 +198,30 @@ Create a detailed outline following these structural points:
 ### STEP 3 — Draft Content Section-by-Section
 - Write each section in order.
 - Optimise for readability + SEO + AI.
+- Apply these common page rules unless the brief gives a stricter instruction:
+  - Keep standard service, customer, product/category and location page drafts under **1,200 words** after excluding metadata and internal-link notes.
+  - Add an **Internal Link Suggestions** block near the top of the draft, after metadata/page details and before the page body.
+  - In that top block, suggest relevant service pages, customer/dropdown pages, pricing/location pages and What We Buy category pages.
+  - Add this note when relevant: "Link each metal, category or service item to its matching deeper page as those pages are created."
+  - Use a short **2-3 word section subheading/eyebrow before the main section heading**, then write a clear, benefit-led heading below it.
+  - Avoid dull, generic headings. Headings should be specific to the service, product, audience, location or customer outcome.
+  - Avoid keyword stuffing. Use primary and secondary keywords naturally, then vary the body copy with plain synonyms and related phrases.
+  - Keep hero descriptions under **30 words** unless the brief gives a different limit, and keep hero bullet points short.
 - For homepage copy, write enough substance to satisfy search intent. Unless the brief specifies a different target, aim for **1,000 to 1,200 words** for a local/service business homepage after excluding metadata and internal-link notes.
 - Keep the hero section short and uncluttered. Do not use the hero to cover every service, city, proof point, and objection.
 - If the page targets multiple locations, keep the H1 broad and natural, then use branch/location sections and location CTAs to route users.
 - Add at least **2 customer pain-point FAQs near the top of the page after the About/Who We Are section**, not only in the final FAQ block.
 - Avoid generic About headings. Use a specific H2 that communicates the business role, customer outcome, or trust angle.
 - In service sections, avoid unnecessary location modifiers in every heading unless each service is explicitly location-specific. Use clean service names and add location-specific CTAs under each service when needed.
-- Include internal linking suggestions after relevant sections such as pricing, services, product/category lists, locations, process, and FAQs. Suggest the anchor text and target URL.
+- Put core internal linking suggestions in the top **Internal Link Suggestions** block. Add inline links inside body sections only when they help user navigation and read naturally.
 - **Strictly Follow Google Guidelines:** Ensure all drafted content strictly adheres to these 5 Google guidelines:
   1. **[AI Optimization Guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide):** Optimize for generative AI search by keeping content clear, structured, and easily extractable.
   2. **[Creating Helpful Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content):** Focus on people-first content that demonstrates clear Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T).
   3. **[Google Search Essentials](https://developers.google.com/search/docs/essentials):** Avoid keyword stuffing, manipulative spam tactics, and unnatural phrasing.
   4. **[Using Gen AI Content](https://developers.google.com/search/docs/fundamentals/using-gen-ai-content):** Ensure any AI-generated claims are carefully fact-checked, reliable, and provide original value.
   5. **[Visual Elements Gallery](https://developers.google.com/search/docs/appearance/visual-elements-gallery):** Use structured formatting (tables, clear concise lists) to optimize for Google's UI elements and AI Overviews.
-- **Copywriting Rules:** Eliminate all "AI-ish/fluffy" adjectives. Always write in a straightforward, highly authoritative tone. 
-- **Formatting Rules:** Keep all bullet points and pointers concise (strict 1-2 lines maximum) for high scannability.
+- **Copywriting Rules:** Eliminate all "AI-ish/fluffy" adjectives. Always write in a straightforward, highly authoritative tone.
+- **Formatting Rules:** Keep all bullet points and pointers concise (strict 1-2 lines maximum) for high scannability. When using section-eyebrow structure, place the short subheading before the main heading.
 - Ensure the content is written at an **8th-grade reading level** to maximize accessibility and AI extraction.
 
 **Ask for Review:** Review section draft before next.
@@ -234,6 +243,9 @@ Create a detailed outline following these structural points:
 - Heading check
 - Keyword placement
 - Internal linking suggestions
+- Word count check against the brief and the default under-1,200-word rule for standard pages
+- Keyword stuffing check so repeated terms do not make the copy sound unnatural
+- Top Internal Link Suggestions block check, with useful anchor text and target-page notes
 
 **Ask for Review:** Approve final draft.
 
