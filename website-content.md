@@ -144,11 +144,11 @@ Create a detailed outline following these structural points:
 1. **Hero**: Outcome-focused heading and short subheading. Keep the hero concise. If the business serves multiple cities or branches, use the broader target location in the H1 (e.g. country, region, or service area) and explain branch locations below instead of overloading the heading with every city. Include exactly three high-impact reassurance bullets and clear CTAs.
 2. **Trust Section**: Short, punchy proof of local focus, business history, credentials, guarantees, payment terms, or process confidence.
 3. **Who We Are / About Section**: Use a specific, non-generic H2 that explains the role of the business (not "About Us" unless the client requires it). Keep this section concise and fact-led. Avoid repeating the hero.
-4. **Common Questions (Pain Points)**: Place at least 2 highly relevant customer pain-point questions immediately after the About section. Focus on doubts that block enquiries, such as price fairness, uncertainty about the right service/product, eligibility, turnaround time, risk, cost, or what happens next.
+4. **Emotional Concerns / Pain Points**: Immediately after the About section, speak directly to the customer's real worries in a natural, conversational way. Avoid direct Q&A formatting near the top unless the brief specifically asks for it. Use empathetic problem-led headings and short copy that names the concern, then reassures the reader with the business's process, support, or next step.
 5. **The Market Has Changed**: A conversational overview explaining relevant market shifts only when the page needs it. Skip or replace this section for local trade, service, or product homepages where it would feel forced.
 6. **What Makes Us Different**: Visual benefits matrix showing the competitive advantage (Visibility, Enquiries, Accountability, Flexibility, Price Clarity, Speed, Local Access, Compliance, etc.).
-7. **Common Questions (Pain Points) - Deeper Section**:
-   * **Formatting:** Bold H2 Heading, H3 Subheading, a concise **50 to 60-word description paragraph**, and structured Q&A bullet points answering main objections.
+7. **Deeper Concern Section**:
+   * **Formatting:** Bold H2 heading, H3 subheading, a concise **40 to 60-word description paragraph**, and short objection-handling bullets. Use Q&A only when it improves clarity; otherwise, write as if speaking directly to the customer.
 8. **Our Services**: Outcomes-first representation of 4-6 core offerings. Use neutral service headings unless location-specific service pages are confirmed. For multi-location businesses, add CTAs for each relevant location under each service (e.g. "Service Auckland" and "Service Christchurch") so users can move to the right local page.
 9. **Product / Service Categories**: Include a focused list of important products, services, or accepted categories when users need to self-identify what they need. Add internal link suggestions to deeper pages for each important category.
 10. **Featured Results / Proof**: Specially formatted bulleted metrics showing real business outcomes when approved proof exists. Do not invent metrics.
@@ -210,10 +210,12 @@ Create a detailed outline following these structural points:
 - For homepage copy, write enough substance to satisfy search intent. Unless the brief specifies a different target, aim for **1,000 to 1,200 words** for a local/service business homepage after excluding metadata and internal-link notes.
 - Keep the hero section short and uncluttered. Do not use the hero to cover every service, city, proof point, and objection.
 - If the page targets multiple locations, keep the H1 broad and natural, then use branch/location sections and location CTAs to route users.
-- Add at least **2 customer pain-point FAQs near the top of the page after the About/Who We Are section**, not only in the final FAQ block.
+- Near the top of the page after the About/Who We Are section, address at least **2 customer pain points or emotional concerns** in natural prose. Do not default to direct Q&A formatting near the top; save formal FAQs for the final FAQ section unless the brief requests otherwise.
 - Avoid generic About headings. Use a specific H2 that communicates the business role, customer outcome, or trust angle.
+- Keep soft trust, reassurance, and About-style sections concise. If a section mainly builds warmth or confidence, use **1-2 short paragraphs** or tight bullets instead of long explanatory copy.
+- Add a clear CTA in every major section. CTAs can be buttons, text prompts, or internal-link prompts, but each main section should give the reader a useful next step.
 - In service sections, avoid unnecessary location modifiers in every heading unless each service is explicitly location-specific. Use clean service names and add location-specific CTAs under each service when needed.
-- Put core internal linking suggestions in the top **Internal Link Suggestions** block. Add inline links inside body sections only when they help user navigation and read naturally.
+- Put core internal linking suggestions in the top **Internal Link Suggestions** block, with useful anchor text and target-page notes for relevant service pages, customer/dropdown pages, pricing/location pages, category pages, and CTA destinations. Add inline links inside body sections only when they naturally improve user navigation.
 - **Strictly Follow Google Guidelines:** Ensure all drafted content strictly adheres to these 5 Google guidelines:
   1. **[AI Optimization Guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide):** Optimize for generative AI search by keeping content clear, structured, and easily extractable.
   2. **[Creating Helpful Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content):** Focus on people-first content that demonstrates clear Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T).
@@ -246,6 +248,10 @@ Create a detailed outline following these structural points:
 - Word count check against the brief and the default under-1,200-word rule for standard pages
 - Keyword stuffing check so repeated terms do not make the copy sound unnatural
 - Top Internal Link Suggestions block check, with useful anchor text and target-page notes
+- CTA coverage across major sections
+- Early concern section check: emotional/problem-led prose near the top, not default Q&A
+- Soft trust section length check
+- Delivery format check: if the user requested Google Docs, DOCX, PDF, or another format, create and verify that deliverable before final handoff
 
 **Ask for Review:** Approve final draft.
 
