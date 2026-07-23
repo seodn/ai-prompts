@@ -1,6 +1,6 @@
-# Unified AI Blog Workflow v2.2.1 (Optimized for AI Citations & Modern Tone)
+# Unified AI Blog Workflow v3.0 (Optimized for Crawled Not Indexed Intelligence)
 
-This is a fully operationalized, end-to-end system for creating and optimizing high-converting, E-E-A-T focused content. This version is strictly configured to avoid common AI-generated patterns and ensure maximum compatibility with LLM extraction and citation.
+This is a fully operationalized, end-to-end system for creating high-converting, E-E-A-T focused content. This version strictly adheres to the **Crawled But Not Indexed Intelligence Workflow**, prioritizing Semantic SEO, Answer Engine Optimization (AEO), and high Entity Coverage to guarantee Google indexing.
 
 ---
 
@@ -13,7 +13,7 @@ This is a fully operationalized, end-to-end system for creating and optimizing h
     - Sound helpful, confident, and honest, but not arrogant.
     - Avoid being too polished, salesy, or robotic.
     - Use simple, practical language and business-owner friendly terms.
-5. **Short Modular Paragraphs**: Every section must use short, distinct paragraphs. This is mandatory to allow AI models to cite and extract specific blocks of information accurately.
+5. **Short Modular Paragraphs**: Every section must use short, distinct paragraphs. **Maximum paragraph length is strictly 250 characters.** Break longer thoughts into multiple shorter paragraphs. This is mandatory to allow AI models to cite and extract specific blocks of information accurately.
 6. **Company Promotion**: Brand-specific mentions and "our" language should be relegated to the **Phase 5 (Decision Layer)** at the end of the article, unless highly necessary for context earlier.
 
 ---
@@ -86,10 +86,12 @@ This is a fully operationalized, end-to-end system for creating and optimizing h
 *Goal: High-quality, citation-friendly generation.*
 
 **Step 3.1 — Section-by-Section Drafting**
-- **Rule:** Use **short modular paragraphs** (2–4 sentences) to allow for easy AI extraction and citation.
+- **Rule:** Use **short modular paragraphs**. No paragraph may exceed 250 characters. Split longer sentences if necessary. This allows for easy AI extraction and citation.
 - **Rule:** Strictly use **no contractions**. Use complete words at all times.
 - **Rule:** Strictly **no em dashes**.
 - **Rule:** Relegate branding and "our" language to the Decision Layer at the end.
+- **Rule (AEO):** Every blog MUST begin with a "Quick Summary" paragraph to explicitly feed Google's AI Overviews.
+- **Rule (Semantic SEO):** Inject highly specific local entities, technical terminology, and verifiable industry mechanisms (e.g., specific government forms, local safety standards, exact material types) to prove Topical Completeness and avoid generic advice.
 - **Strictly Follow Google Guidelines:** Ensure all drafted content strictly adheres to these 5 Google guidelines:
   1. **[AI Optimization Guide](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide):** Optimize for generative AI search by keeping content clear, structured, and easily extractable.
   2. **[Creating Helpful Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content):** Focus on people-first content that demonstrates clear Experience, Expertise, Authoritativeness, and Trustworthiness (E-E-A-T).
@@ -104,7 +106,7 @@ This is a fully operationalized, end-to-end system for creating and optimizing h
 
 **Step 4.1 — Integrate Q&A**
 - Select 2–3 target questions related to the topic.
-- Integrate the answers seamlessly into the body text. Do not use an FAQ list.
+- **Rule (AEO):** You MUST create a dedicated "Frequently Asked Questions (FAQ)" section near the bottom of the article. This explicitly satisfies Answer Engine Optimization and helps capture PAA (People Also Ask) snippets.
 
 ---
 
@@ -131,8 +133,8 @@ This is a fully operationalized, end-to-end system for creating and optimizing h
 *Goal: Robustness and multi-modal context.*
 
 **Step 7.1 — Media & Tables**
-- Create comparison tables where useful for decision-making.
-- Generate realistic expert-style quotes to add authority.
+- **Rule (AEO):** Create structured comparison tables to satisfy AI Overview formatting preferences.
+- **Rule (EEAT Enhancement):** Generate a dedicated "Expert Insight" block. Attribute the quote to the specific client (e.g., Zia, Amarjeet) and include their specific professional credentials (e.g., Licensed Motor Vehicle Wrecker, Lead Technician) to maximize Experience, Expertise, Authority, and Trustworthiness.
 - **Note:** Do not include or generate images in this version.
 
 ---
