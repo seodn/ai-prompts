@@ -105,7 +105,7 @@
 Before generating any website content in the following steps, you MUST adhere to these strict formatting rules for EVERY section:
 
 1. **Dual-Heading Structure:** Every single section MUST have a category heading (H2) followed immediately by a conversational subheading (H3).
-2. **Category Heading (H2):** The H2 must be exactly 2 to 4 words long. It should describe the topic (e.g., "Cost Breakdown", "Local Expertise", "Core Services"). Do NOT use meta-labels like "Hero Section", "Trust Section", or "About Us Section".
+2. **Category Heading (H2):** The H2 must be exactly 2 to 3 words long. It should describe the topic (e.g., "Cost Breakdown", "Local Expertise", "Core Services"). Do NOT use meta-labels like "Hero Section", "Trust Section", or "About Us Section".
 3. **Conversational Subheading (H3):** The H3 below the category heading should be a natural, conversational sentence or question (e.g., "What is the cost of PVC in Sydney?", "Why choose our experienced team?"). 
 4. **Short Paragraphs:** Do NOT write large paragraphs. Keep paragraphs extremely short (1 to 2 sentences maximum) and use bullet points frequently to ensure scannability.
 5. **Total Word Count:** The entire generated page content must be strictly between 900 to 1200 words.
