@@ -27,6 +27,15 @@ Create a claim register:
 | Incorrect | Conflicts with the source of truth |
 | Missing | Confirmed information is absent from the website |
 
+For every time-sensitive claim, also record:
+
+- Owner
+- Authoritative evidence source
+- Date verified
+- Review-by or expiry date
+
+Use the review-by date to trigger revalidation of prices, availability, opening hours, service areas, funding, staff qualifications, accreditations, review counts, and other claims that can become outdated. A claim without current evidence should return to `Needs verification`; it should not remain confirmed indefinitely.
+
 Do not assume that existing website content is correct.
 
 ## 2. Define the website objective
@@ -213,6 +222,8 @@ Never convert an ambiguous statement such as "$150 GST" into either "$150 plus G
 - Avoid duplicate headings hidden in responsive layouts.
 - Use sentence case consistently.
 - Ensure headings remain useful without surrounding text.
+- Automatically flag empty headings, empty links, icon-only controls without accessible names, and rendered-but-hidden duplicate structures.
+- Check the rendered DOM as well as the source HTML so client-side components and responsive variants are included.
 
 ## 9. Audit SEO metadata
 
@@ -271,6 +282,10 @@ A sitemap URL must return XML, not homepage HTML with a false 200 response.
 - Breadcrumbs should reflect the hierarchy.
 - Location pages should not be thin doorway pages.
 - Multiple pages should not compete for the same keyword.
+
+Create a search-intent cannibalisation map for every indexable page. Record its primary query or topic, search intent, location, audience, funnel stage, and any competing URLs. Where two pages target the same intent, differentiate them substantially, consolidate them, or select one canonical destination rather than allowing both to compete.
+
+For local businesses, reconcile the name, address, phone number, opening hours, location name, service area, and map destination across visible page copy, the header and footer, structured data, contact pages, location pages, Google Business Profiles, and other authoritative listings. Record every discrepancy instead of choosing one version without client confirmation.
 
 ## 12. Test every call to action
 
@@ -382,6 +397,8 @@ Test category navigation, search, filters, sorting, variants, stock, pricing, ta
 ### Service business
 
 Test service accuracy, service areas, quote and booking flows, phone links, maps, hours, qualifications, prices, inclusions, exclusions, LocalBusiness schema, Google Business Profile consistency, reviews, and location-page duplication.
+
+For every local landing page, require location-specific evidence such as a real address or verified service area, local phone and hours where applicable, staff or provider details, original photographs, services and availability, reviews or testimonials, directions, and genuinely useful local information. Flag pages that merely swap place names in a shared template, make unsupported local claims, or exist primarily to capture nearby keywords as potential doorway pages.
 
 ### SaaS
 
