@@ -11,6 +11,7 @@
 ---
 
 ### STEP 2 — Analyse Top-Ranking LLM Result Criteria
+
 - Define what a top-ranking/cited result looks like for the keyword
 - Assign ranking weightage across LLM SEO factors
 
@@ -19,6 +20,7 @@
 ---
 
 ### STEP 3 — Audit Website Against Criteria
+
 - Score page against each ranking factor
 - Generate total LLM readiness score
 - Provide confidence level
@@ -28,6 +30,7 @@
 ---
 
 ### STEP 4 — Detailed Diagnostic Breakdown
+
 - Analyse each LLM SEO factor
 - Provide score, diagnosis, fixes, impact
 - Format the diagnostic breakdown as a **Markdown Table**
@@ -37,6 +40,7 @@
 ---
 
 ### STEP 5 — Generate Improvement Roadmap
+
 - Prioritised recommendations table
 - Estimated impact for each action
 
@@ -45,6 +49,7 @@
 ---
 
 ### STEP 1 — Collect Business Inputs
+
 - Business Type
 - Services Offered
 - Target Location
@@ -55,6 +60,7 @@
 ---
 
 ### STEP 2 — Business & Revenue Discovery
+
 - Ask revenue/service priority questions
 - Identify profitable offers
 
@@ -63,6 +69,7 @@
 ---
 
 ### STEP 3 — Customer Profile Research
+
 - Identify ideal customer
 - Understand triggers/problems
 
@@ -71,6 +78,7 @@
 ---
 
 ### STEP 4 — Search Behaviour Discovery
+
 - Ask/search for customer search queries
 - Collect common pre-sale questions
 
@@ -79,6 +87,7 @@
 ---
 
 ### STEP 5 — Objections & Pain Points
+
 - Identify fears/objections/delays
 
 **Ask for Review:** Review objections.
@@ -86,6 +95,7 @@
 ---
 
 ### STEP 6 — Decision Factors & Trust Signals
+
 - Understand buying factors
 - Gather proof/trust/differentiators
 
@@ -94,6 +104,7 @@
 ---
 
 ### STEP 7 — Competitor & Market Intelligence
+
 - Analyse competitors
 - Identify market gaps
 
@@ -102,6 +113,7 @@
 ---
 
 ### 🚨 CONTENT GENERATION RULES (CRITICAL)
+
 Before generating any website content in the following steps, you MUST adhere to these strict formatting rules for EVERY section:
 
 1. **Visual Heading Structure:** Every section MUST start with a short eyebrow label placed above the larger main heading.
@@ -112,10 +124,22 @@ Before generating any website content in the following steps, you MUST adhere to
 6. **Short Paragraphs:** Keep paragraphs to one or two sentences. Use bullets where they make decisions, inclusions, symptoms, steps, pricing or proof easier to scan.
 7. **Hero Copy:** Use one short supporting paragraph below the hero heading. Aim for fewer than 30 words, followed by reassurance points and clear calls to action.
 8. **Total Word Count:** The entire generated page content must be strictly between 900 and 1,200 words unless the user gives a different range.
+9. **Section Distribution:** Achieve the total word count through multiple useful sections and content blocks. Do not make individual sections unnecessarily long just to reach the required word count.
+10. **Balanced Sections:** Keep most standard sections concise, generally around 50–120 words where the topic allows. A section may be longer only when the subject genuinely requires additional detail.
+11. **One Topic Per Section:** Each section should focus on one clear customer question, need, concern, service, benefit, decision factor or search intent. Do not combine several unrelated topics into one long section.
+12. **More Useful Sections, Not More Filler:** Where the page needs more coverage, create additional meaningful sections rather than expanding existing sections with repetitive text.
+13. **Service Distribution:** If multiple services need to be covered, give each service its own concise content block or card instead of describing all services in one long paragraph.
+14. **FAQ Distribution:** Keep FAQ answers direct and concise. Cover more relevant questions rather than making individual answers unnecessarily long.
+15. **Word Count Is a Page-Level Target:** Do not try to make every section the same length. Distribute words naturally according to the importance of each topic while keeping the overall page balanced.
+16. **No Forced Expansion:** If a section has answered its purpose clearly, stop. Never add filler sentences, repeated keywords or generic statements simply to increase word count.
+17. **Final Length Check:** Before finalising, confirm that the page meets the requested total word count while maintaining short, scannable and balanced sections.
 
-**Example of correct section formatting:**
-Eyebrow: Local Care
+**Core principle:** Build the required word count through **more useful sections + shorter content per section**, not through a small number of oversized sections.
+
+**Example of correct section formatting:** Eyebrow: Local Care
+
 ## Trusted Car Service in Glen Eden
+
 [Short 1-2 sentence paragraph or bullet points go here...]
 
 ### 🚨 INTERNAL LINKING RULES (CRITICAL)
@@ -152,6 +176,7 @@ Include every service required by the approved menu or page brief. Do not collap
 ---
 
 ### STEP 1 — Collect Inputs
+
 - Industry/Niche
 - Target Service/Keyword
 - Location
@@ -166,6 +191,7 @@ Include every service required by the approved menu or page brief. Do not collap
 ---
 
 ### STEP 2 — Identify Search Intent + User Journey
+
 - Map awareness to conversion stage
 - Determine outline purpose
 
@@ -174,9 +200,11 @@ Include every service required by the approved menu or page brief. Do not collap
 ---
 
 ### STEP 3 — Generate Comprehensive Outline Structure
+
 Create a detailed outline following these structural points. **(You must apply the 🚨 CONTENT GENERATION RULES from above to every single section)**:
 
 #### Option A: Standard Service & Landing Pages
+
 1. **Hero**: Outcome-focused eyebrow and main heading. Include exactly three high-impact reassurance bullet points and clear call-to-actions.
 2. **AI Overview / About**: Eyebrow and main heading optimized for seamless LLM extraction.
 3. **Problem / Symptom / Need**: Eyebrow and main heading detailing signs or problems leading to the service.
@@ -193,7 +221,10 @@ Create a detailed outline following these structural points. **(You must apply t
 14. **FAQ Section**: Eyebrow and main heading. Five to ten LLM-optimized questions tightly focused on the target search intent.
 15. **CTA Section**: Eyebrow and main heading. Includes an integrated booking, quote or contact action.
 
+**Section Length Guidance:** Use these sections as a framework, not a requirement to make every section long. Keep each section focused and concise. If additional useful search intent, customer questions or decision factors need coverage to reach the requested word count, create additional meaningful sections rather than expanding existing sections unnecessarily.
+
 #### Option B: Premium Direct-Response Homepage
+
 1. **Hero**: Outcome-focused eyebrow and main heading. Include exactly three high-impact reassurance bullets and clear CTAs.
 2. **Trust Section**: Eyebrow and main heading. Short, punchy proof of local focus, business history, credentials, guarantees, payment terms or process confidence.
 3. **Who We Are / About Section**: Eyebrow and main heading. Keep this section concise and fact-led. Avoid repeating the hero.
@@ -209,7 +240,12 @@ Create a detailed outline following these structural points. **(You must apply t
 13. **FAQ**: Short questions that remove common barriers to booking.
 14. **Final CTA**: A direct booking, quote or call action.
 
+**Section Length Guidance:** Keep homepage sections concise and distinct. Do not turn the About, Trust, Benefits or Services sections into large blocks of copy. Where more depth is needed, distribute it across additional relevant sections, service cards, FAQs or customer decision points rather than creating one oversized section.
+
+---
+
 ### STEP 4 — Draft, Validate and Finalise
+
 - Draft finished customer-facing copy using the approved outline and the content generation rules above.
 - Add internal links, relevant CTAs and approved proof while writing.
 - Check every eyebrow is one or two words and appears above its main heading.
@@ -219,6 +255,9 @@ Create a detailed outline following these structural points. **(You must apply t
 - Check service content is card-ready and covers every required menu service.
 - Check all pricing, tax wording, claims, trust statements and exclusions against the approved source material.
 - Remove generic template language, placeholders, robotic wording, unsupported claims and writer instructions.
+- Check that the word count is distributed across multiple useful sections rather than concentrated in a few long sections.
+- Check that no section has been unnecessarily expanded simply to reach the page word count.
+- Add or retain useful sections where required to provide complete search-intent coverage and achieve the requested word count naturally.
 - Confirm the page is 900–1,200 words unless a different word count was requested.
 
 **Ask for Review:** Approve the final page content before publication.
